@@ -1,0 +1,9 @@
+body {
+    color: black;
+    
+   
+}
+
+.carousel-item {
+    max-height: 600px;
+}
